@@ -1,8 +1,8 @@
 package com.produitgate.vtiger;
 
-public class Adding_Two_Numbers_Inte {
+public class Adding_Two_Numbers_InteTest {
 public static void main(String[] args){
-int no = 679;
+int no = 456;
 int sum = 0;
 int result = 0;
 
